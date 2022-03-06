@@ -19,5 +19,6 @@ public class Main {
            duplicate element.
          */
         System.out.println(set);
+        // and this elements will get print in sorted order.
     }
 }
