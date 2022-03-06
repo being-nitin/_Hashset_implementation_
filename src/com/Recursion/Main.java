@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// Hashset Implementation.
-
+    // in this duplicate elements are not allowed
         HashSet <Integer> set = new HashSet<>();
         set.add(89);
         set.add(90);
