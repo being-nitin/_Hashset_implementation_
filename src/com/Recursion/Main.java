@@ -26,5 +26,8 @@ public class Main {
 
         // to check that the set is empty or not.
         System.out.println(set.isEmpty());
+
+        // to check the size of set
+        System.out.println(set.size());
     }
 }
