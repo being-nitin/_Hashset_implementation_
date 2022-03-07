@@ -29,5 +29,9 @@ public class Main {
 
         // to check the size of set
         System.out.println(set.size());
+
+        // clear method added
+        set.clear();
+        System.out.println(set);
     }
 }
