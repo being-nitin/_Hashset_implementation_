@@ -23,5 +23,8 @@ public class Main {
 
         // to check that any particular element is present or not.
         System.out.println(set.contains(89));
+
+        // to check that the set is empty or not.
+        System.out.println(set.isEmpty());
     }
 }
