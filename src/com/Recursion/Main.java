@@ -20,5 +20,8 @@ public class Main {
          */
         System.out.println(set);
         // and this elements will get print in sorted order.
+
+        // to check that any particular element is present or not.
+        System.out.println(set.contains(89));
     }
 }
